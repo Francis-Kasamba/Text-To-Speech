@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/text-to-speech.git
+git clone https://github.com/Francis-Kasamba/text-to-speech.git
 Open index.html in a web browser.
 Contributing
 Contributions are welcome! Fork the repository and submit pull requests with any improvements or additional features.
